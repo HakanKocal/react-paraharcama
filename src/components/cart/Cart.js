@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { Col, Container, Row } from "reactstrap";
 import {FaTimes,FaArrowLeft} from 'react-icons/fa'
 import { Link } from "react-router-dom";
+import alertify from "alertifyjs"
 
 export default class Cart extends Component {
   removeFromCart=(product)=>{
@@ -13,6 +14,7 @@ export default class Cart extends Component {
     let newMoney=(this.props.money-this.props.total)
     this.props.setMoney(newMoney);
     this.props.setBasket([]);
+    alertify.success("Ödeme Başarı İle Gerçekleşti")
   }
   renderCart(){
     return (
@@ -45,7 +47,7 @@ export default class Cart extends Component {
             </div>
             <button type="button" className="btn button-coupon">Uygula</button>
             </div>
-            <span> {this.props.total?'Price '+this.props.total.toFixed(2)+' ₺':'Sepetiniz Boş'}</span>
+            <span> {this.props.total?'Toplam Tutar '+this.props.total.toFixed(2)+' ₺':'Sepetiniz Boş'}</span>
           </div>
           </div>
           <div className="buy">

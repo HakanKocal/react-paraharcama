@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Container, Row, Col } from "reactstrap";
-
+import alertify from "alertifyjs"
 export default class Product extends Component {
   addbasket = (product) => {
     var basket = this.props.basket;
@@ -25,7 +25,9 @@ export default class Product extends Component {
           adet: 1,
         },
       ]);
+      
     }
+    alertify.success(product.name+" sepete eklendi")
   };
   render() {
     return (
