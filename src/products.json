@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "name":"Polonez Acılı Sucuk 240 G",
+        "price":28.90,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/14209410/14209410-956050-1650x1650.jpg"
+    },
+    {
+        "id":2,
+        "name":"Nesfit Ballı Bademli Kahvaltılık Gevrek 400 G",
+        "price":15.75,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05098272/05098272-b7062c-1650x1650.jpg"
+    },
+    {
+        "id":3,
+        "name":"Halley Karadutlu Sandviç Bisküvi 236 G",
+        "price":7.90,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07011189/07011189-2e9b25-1650x1650.jpg"
+    },
+    {
+        "id":4,
+        "name":"Bolca Hindi Bütün Göğüs 750 G",
+        "price":26.90,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/13302771/13302771-50427a-1650x1650.jpg"
+    },
+    {
+        "id":5,
+        "name":"Dardanel Kuskuslu Ton 185 G",
+        "price":11.18,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/09024257/09024257-3d0bcd-1650x1650.jpg"
+    },
+    {
+        "id":6,
+        "name":"Ülker Bol Sütlü Kare Çikolata 60 G",
+        "price":5.25,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/7038030/7038030-94b2ca-1650x1650.jpg"
+    },
+    {
+        "id":7,
+        "name":"Toblerone Sütlü Çikolata 100 G",
+        "price":12.75,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07040810/07040810-a3a338-1650x1650.jpg"
+    },
+    {
+        "id":8,
+        "name":"Migros Ayçiçek Yağı 2 L",
+        "price":33.90,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/04111083/04111083-753cd7-1650x1650.jpg"
+    },
+    {
+        "id":9,
+        "name":"Migros Baldo Pirinç 1000 G",
+        "price":12.90,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/01011179/01011179-ff1326-1650x1650.jpg"
+    },
+    {
+        "id":10,
+        "name":"Çaykur Tiryaki Çayı 1000 G",
+        "price":35.50,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/03111315/03111315-b8d5d1-1650x1650.jpg"
+    },
+    {
+        "id":11,
+        "name":"İçim Taze Kaşar Peyniri 700 G",
+        "price":39.95,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10108647/10108647-b9bf91-1650x1650.jpg"
+    },
+    {
+        "id":12,
+        "name":"Prima Aktif 6 Beden XL Aylık Fırsat 102’li",
+        "price":217.90,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/31100059/31100059-2f2d59-1650x1650.jpg"
+    },
+    {
+        "id":13,
+        "name":"Eti Lifalif Yulaf Ezmesi 500 G",
+        "price":14.00,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05093202/05093202-422adc-1650x1650.jpg"
+    },
+    {
+        "id":14,
+        "name":" Selpak Tuvalet Kağıdı 32'li",
+        "price":131.50,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/31014105/31014105-fff360-1650x1650.png"
+    },
+    {
+        "id":15,
+        "name":"Colgate Optic White Diş Macunu 75 Ml",
+        "price":24.00,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/34014080/34014080-46a598-1650x1650.jpg"
+    },
+    {
+        "id":16,
+        "name":"Pınar Süt 1 L",
+        "price":13.50,
+        "img":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/11010010/11010010-1ae231-1650x1650.jpg"
+    }
+
+]
