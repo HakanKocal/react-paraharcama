@@ -105,7 +105,8 @@ export default class Cart extends Component {
           <button type="button" className="btn buy-button" onClick={()=>this.buyCart()} >Satın Al</button>
           </div>
         </Container> */}
-        {this.props.basket.lenght>0?this.renderCart():this.emptyCart()}
+        {console.log(this.props.basket)}
+        {this.props.basket.length>0?this.renderCart():this.emptyCart()}
       </div>
     );
   }
